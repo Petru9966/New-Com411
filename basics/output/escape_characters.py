@@ -1,0 +1,6 @@
+# Displays escape characters
+print("\n Displays a new line")
+print("\t Displays a tab space")
+print("\\ Displays a back slash")
+print("\" Displays a double qoute")
+print("\' Displays a single qoute")
